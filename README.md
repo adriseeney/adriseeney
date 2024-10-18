@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on applying theoretical multidisplinary research into Ai-enabled solutions to address real-world challenges that affect everyday individuals and households, with a focus on:
   - Assistive Technology
-  - Decision Support Toos
+  - Decision Support Tools
   - Computational social science
   - Microeconomic decision-making in areas such as:
     - Food and diet choices
