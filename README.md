@@ -3,12 +3,15 @@
 <!-- **adriseeney/adriseeney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working on applying theoretical multidisplinary research to real-world challenges that affect everyday individuals and households, with a focus on:
+- 🔭 I’m currently working on applying theoretical multidisplinary research into Ai-enabled solutions to address real-world challenges that affect everyday individuals and households, with a focus on:
+  - Assistive Technology
+  - Decision Support Toos
   - Computational social science
   - Microeconomic decision-making in areas such as:
     - Food and diet choices
     - Access to education and healthcare
     - Personal finance
+
 
 - 🌱 I’m currently learning:
   - **Programming Mastery**: Python, R, SQL, SAS
